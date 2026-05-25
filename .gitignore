@@ -19,6 +19,9 @@ desktop.ini
 *.key
 secrets/
 
+# ── Claude Code local settings (contains tokens) ──────────────────────────────
+.claude/settings.local.json
+
 # ── Python ────────────────────────────────────────────────────────────────────
 __pycache__/
 *.py[cod]
